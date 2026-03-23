@@ -1,0 +1,16 @@
+[project]
+name = "design-and-practice-of-generative-ai-systems-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "sentence-transformers",
+    "openai",
+    "scikit-learn",
+    "jupyter",
+    "pandas",
+    "python-dotenv",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.20",
+]
