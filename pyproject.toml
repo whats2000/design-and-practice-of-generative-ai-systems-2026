@@ -13,4 +13,9 @@ dependencies = [
     "python-dotenv",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.20",
+    "langchain>=1.2.13",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.1",
+    "faiss-cpu>=1.13.2",
+    "numpy>=2.4.3",
 ]
