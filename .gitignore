@@ -65,3 +65,6 @@ models/
 # Logs
 *.log
 logs/
+
+# Claude AI
+.claude/
